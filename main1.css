@@ -1,0 +1,24 @@
+.hi{
+   background-color: #ee3e64;
+   border:#ee3e64;
+   width:200px;
+   height:200px;
+   position:static;
+       }
+
+.hello{
+   background-color: #44accf;
+   border:#44accf;
+   width:200px;
+   height:200px;
+   position:static;
+      } 
+
+.hola{
+   background-color: #b7d84b;
+   border:#b7d84b;
+   width:200px;
+   height:200px;
+   position:static;
+     
+     }      
